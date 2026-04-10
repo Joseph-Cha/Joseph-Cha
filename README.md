@@ -66,16 +66,6 @@ public class Developer : MonoBehaviour
 | [UnityWebRequestPractice](https://github.com/Joseph-Cha/UnityWebRequestPractice) | 다양한 웹 요청 구현 방식 연구 | Unity, C# |
 | [AlgorithmStudy](https://github.com/Joseph-Cha/AlgorithmStudy) | 알고리즘 학습 저장소 | C++ |
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joseph-Cha&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-Cha&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
