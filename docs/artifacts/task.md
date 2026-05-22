@@ -11,4 +11,5 @@
 - [x] Follow-up updates: Remove banner & Fix Hits badge <!-- id: 9 -->
   - [x] Remove top profile image (profile_banner.png) <!-- id: 10 -->
   - [x] Replace broken hits.seeyoufarm.com badge with hits.sh badge <!-- id: 11 -->
+  - [x] Update contact email to Kakao and LinkedIn link to donghuncha <!-- id: 12 -->
 - [x] Commit modifications in accordance with commit guidelines <!-- id: 8 -->

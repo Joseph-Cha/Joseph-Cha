@@ -31,6 +31,10 @@ This walkthrough summarizes the redesign and decoration of Joseph Cha's GitHub p
 - Appended `&count_private=true` to all GitHub read-me stats cards so that private contributions are calculated, showing true contribution levels.
 - Configured **GitHub Streak Stats** with matching styling.
 
+### 5. Let's Connect Updates
+- Updated the contact email to `joseph.c@kakao.com` with a styled KakaoMail badge (KakaoTalk logo, yellow background `#FFCD00`, black text).
+- Corrected the LinkedIn profile link to `https://www.linkedin.com/in/donghuncha/`.
+
 ## Verification & Output
 
 - All files verified locally.

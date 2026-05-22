@@ -30,7 +30,7 @@ Update the README.md with the new design:
 - Update the **Tech Stack** section with sorted, styled, and aligned shields.
 - Group and list the featured public and private repositories (highlighted appropriately) with star badges.
 - Re-align **GitHub Statistics** using the Dracula theme with a side-by-side layout.
-- Update the **Let's Connect** section using modern, flat-square styled social badges.
+- Update the **Let's Connect** section using modern, flat-square styled social badges (with email updated to KakaoMail and LinkedIn updated to donghuncha).
 
 #### [DELETE] [profile_banner.png](file:///Users/joseph.c/Work/Samples/tools/Joseph-Cha/profile_banner.png)
 Delete the unused AI-generated banner image to keep the workspace clean.
