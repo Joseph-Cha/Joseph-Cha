@@ -1,42 +1,32 @@
-# Walkthrough - GitHub Profile README Overhaul
+# Walkthrough - Pivot Profile to Web & AI Engineering
 
-This walkthrough summarizes the redesign and decoration of Joseph Cha's GitHub profile.
+This walkthrough summarizes the restructuring of Joseph Cha's GitHub profile to focus primarily on Full-Stack Web & AI Engineering, emphasizing the **xbridge-ai** tech stack.
 
 ## Changes Made
 
-### 1. Header Layout & Custom Badges
-- Removed the top profile banner image (`profile_banner.png`) to keep the top clean.
-- Fixed the broken `Hits` badge next to the `Followers` badge by migrating from the shut-down `hits.seeyoufarm.com` service to the modern, reliable `hits.sh` service.
-- Applied consistent styles (`style=flat-square`, `#79C0FF` color, and GitHub logo) to both badges to ensure they align and render correctly.
-- Centered header text, including followers count, visitor hits count, and the motto/Scripture.
-- Replaced the C# `Developer` MonoBehavior code block with a Neofetch-style terminal block displaying an ASCII game controller and system info details.
-- Organized the **Tech Stack** section into four categories:
-  - Game Development
-  - Mobile Development
-  - Web Development
-  - Tools & Platforms
-  Using consistent badges with flat-square style.
+### 1. Headline & Intro Alignment
+- Updated the header role to **Christian Indie Founder & Full-Stack AI Engineer**.
+- Rewrote the introductory paragraph under `## 💻 About Me` to highlight expertise in TypeScript, React, and LLM integrations (centering on `xbridge-ai`).
 
-### 3. Categorized Project Section
-- Re-structured projects into structured markdown tables across 4 core domains:
-  - ✝️ Christian & Community Apps
-  - 🎮 Game Development & Architecture
-  - 🌐 Web & AI Platform Projects
-  - 🧠 System Programming & Algorithms
-- Integrated both public and private repositories (e.g., `xbridge-ai`, `focus-mate-app`), displaying full engineering scope.
+### 2. Custom Monitor ASCII Art & Tech Sidebar
+- Replaced the controller ASCII art block with a computer monitor displaying "React & AI Engineering".
+- Updated the sidebar text to focus on AI Platform Design, React, TypeScript, Next.js, and Vector Databases.
 
-### 4. Interactive Statistics & Trophies
-- Configured **GitHub Trophies** to match a modern design style.
-- Side-by-side **GitHub Stats** and **Top Languages** cards using the custom `dracula` theme, utilizing the `github-readme-stats-fast.vercel.app` mirror since the official Vercel deployment is paused (`DEPLOYMENT_PAUSED`).
-- Appended `&count_private=true` to all GitHub read-me stats cards so that private contributions are calculated, showing true contribution levels.
-- Configured **GitHub Streak Stats** with matching styling.
+### 3. Tech Stack Prioritization & New Badges
+- Reordered categories to put **🌐 Web & AI Development** at the top of the tech stack section.
+- Added modern badges for **Next.js**, **Tailwind CSS**, **Python**, **FastAPI**, **OpenAI**, and **Docker**.
+- Moved Game and Mobile Development sections below.
 
-### 5. Let's Connect Updates
-- Updated the contact email to `joseph.c@kakao.com` with a styled KakaoMail badge (KakaoTalk logo, yellow background `#FFCD00`, black text).
-- Corrected the LinkedIn profile link to `https://www.linkedin.com/in/donghuncha/`.
+### 4. Featured Projects Restructuring
+- Restructured and moved **🌐 Web & AI Platform Projects** to the top of the project section tables, making the **xbridge-ai** project the central highlight.
+- Re-ordered other domains (Christian Apps, Game Dev, System Programming) accordingly.
+
+### 5. Future Scope & Philosophy Update
+- Updated "Currently Working On" and "Looking to Collaborate On" lists to focus on AI platform scalability, prompt engineering, Next.js optimization, and LLM developer communities.
+- Aligned "My Philosophy" to focus on reliable AI systems through clean architecture.
 
 ## Verification & Output
 
 - All files verified locally.
-- Git status displays the modified `README.md` and the deletion of the unused `profile_banner.png`.
+- Git status displays the modified `README.md` and related documents.
 - Walkthrough, task, and implementation plan documents updated in project's `docs/artifacts/`.

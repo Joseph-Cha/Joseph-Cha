@@ -4,7 +4,7 @@
 
 ### *"Every day, one step forward."* 🚀
 
-**Christian Indie Founder & Game Developer** based in **Seoul, South Korea**
+**Christian Indie Founder & Full-Stack AI Engineer** based in **Seoul, South Korea**
 
 [![Hits](https://hits.sh/github.com/Joseph-Cha.svg?style=flat-square&label=Hits&color=79C0FF&labelColor=555555&logo=github)](https://github.com/Joseph-Cha)
 [![GitHub Followers](https://img.shields.io/github/followers/Joseph-Cha?color=79C0FF&label=Followers&style=flat-square)](https://github.com/Joseph-Cha?tab=followers)
@@ -15,23 +15,23 @@
 
 ---
 
-## 🎮 About Me
+## 💻 About Me
 
-I'm a passionate game developer and indie founder dedicated to creating meaningful games with clean architecture. With expertise in both game development and software design patterns, I focus on building robust systems and sharing knowledge with the community.
+I'm a passionate full-stack AI engineer and indie founder dedicated to building robust, modern web applications and AI-driven platforms like **xbridge-ai**. With deep expertise in TypeScript, React, and AI integrations, I focus on creating scalable architectures, clean codebases, and sharing knowledge with the developer community.
 
 ```text
-    .---.      .---.     joseph-cha@github
-   /     \____/     \    -----------------
-  |  /\   __    (B)  |   Role: Christian Indie Founder & Game Developer
-  | <  > (__) (A)    |   Motto: Every day, one step forward 🚀
-  |  \/   __   __    |   Loc: Seoul, South Korea (zsh)
-  |      /  \ /  \   |   Scripture: Colossians 3:23 📖
-   \    /    V    \  /   
-    '--'           '--'  [Skills & Focus]
-                         ├─ Core: Game Architecture & Clean Code
-                         ├─ Langs: C#, C++, Dart, TypeScript
-                         ├─ Engines: Unity, Unreal Engine, Flutter
-                         └─ Techs: Full-Stack Web & Mobile Apps
+  _____________________      joseph-cha@github
+ |  _________________  |     -----------------
+ | |                 | |     Role: Christian Indie Founder & AI Web Engineer
+ | |   React & AI    | |     Motto: Every day, one step forward 🚀
+ | |   Engineering   | |     Loc: Seoul, South Korea (zsh)
+ | |_________________| |     Scripture: Colossians 3:23 📖
+ |_____________________|     
+        |_______|            [Skills & Focus]
+       /_______\             ├─ Core: AI Platform Design & Web Architecture
+      /_________\            ├─ Langs: TypeScript, JavaScript, Python, C#
+                             ├─ Frameworks: React, Next.js, TailwindCSS
+                             └─ Techs: LLMs, OpenAI, Vector DB, Compliance AI
 ```
 
 ---
@@ -40,11 +40,16 @@ I'm a passionate game developer and indie founder dedicated to creating meaningf
 
 <div align="center">
 
-### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+### 🌐 Web & AI Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -53,23 +58,31 @@ I'm a passionate game developer and indie founder dedicated to creating meaningf
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-### 🌐 Web Development
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
 ## 📌 Featured Projects
+
+### 🌐 Web & AI Platform Projects
+| Project | Description | Tech Stack | Type |
+| :--- | :--- | :--- | :---: |
+| **xbridge-ai** | AI 기반 수출 컴플라이언스 플랫폼 서비스 개발 | `TypeScript` `React` `HTML` | Private |
+| **focus-mate-app** & **focus_mate_web** | 뽀모도로 타이머 및 생산성 향상 크로스플랫폼 앱 & 웹 서비스 | `Dart` `Flutter` `JavaScript` | Private |
+| **[macro-detector-web-landing](https://github.com/Joseph-Cha/macro-detector-web-landing)** | 매크로 툴 탐지 솔루션 소개 랜딩 페이지 | `TypeScript` `React` | Public |
 
 ### ✝️ Christian & Community Apps
 | Project | Description | Tech Stack | Type |
@@ -85,13 +98,6 @@ I'm a passionate game developer and indie founder dedicated to creating meaningf
 | **[PageTransitions](https://github.com/Joseph-Cha/PageTransitions)** | 부드러운 UI 화면 전환 애니메이션 모듈 | `Unity` `C#` `Animation` | Public | ![Stars](https://img.shields.io/github/stars/Joseph-Cha/PageTransitions?style=flat&label=) |
 | **[UnityWebRequestPractice](https://github.com/Joseph-Cha/UnityWebRequestPractice)** | 다양한 웹 요청 구현 방식 비교 분석 | `Unity` `C#` `Networking` | Public | ![Stars](https://img.shields.io/github/stars/Joseph-Cha/UnityWebRequestPractice?style=flat&label=) |
 | **JustFight** | 2D 배틀로얄 게임 클라이언트 및 서버 구현 | `Unity` `C#` `.NET5` | Multi-Repo | - |
-
-### 🌐 Web & AI Platform Projects
-| Project                                                                                    | Description　　　　　　　　　　　　　　　　　　　　　　　　| Tech Stack                    | Type    |
-| :-------------------------------------------------------------------------------------------| :-----------------------------------------------------------| :------------------------------| :-------:|
-| **xbridge-ai**                                                                             | AI 기반 수출 컴플라이언스 플랫폼 서비스 개발　　　　　　　 | `TypeScript` `React` `HTML`   | Private |
-| **focus-mate-app** & **focus_mate_web**                                                    | 뽀모도로 타이머 및 생산성 향상 크로스플랫폼 앱 & 웹 서비스 | `Dart` `Flutter` `JavaScript` | Private |
-| **[macro-detector-web-landing](https://github.com/Joseph-Cha/macro-detector-web-landing)** | 매크로 툴 탐지 솔루션 소개 랜딩 페이지　　　　　　　　　　 | `TypeScript` `React`          | Public  |
 
 ### 🧠 System Programming & Algorithms
 | Project | Description | Tech Stack | Type |
@@ -135,26 +141,25 @@ I'm a passionate game developer and indie founder dedicated to creating meaningf
 
 ## 🔭 Currently Working On
 
-- 🎮 **Game Projects** - Developing engaging indie games with clean architecture.
-- 📖 **Design Patterns** - Deep-diving into advanced architecture patterns (MVP, MVVM, ECS).
-- 🧠 **Algorithm Optimization** - Solving competitive programming challenges.
-- 🌐 **Full-Stack Development** - Building web applications alongside game development.
+- 🌐 **AI Platforms** - Developing **xbridge-ai**, an AI-powered export compliance platform.
+- 🧠 **LLM Integration** - Engineering prompt workflows, LLM orchestration, and vector-database search.
+- ⚡ **Web Performance** - Optimizing Next.js & React server-side rendering and client-side interactions.
+- 📐 **Clean Architecture** - Structuring robust systems with clean code, modular patterns, and maintainable state.
 
 ---
 
 ## 👯 Looking to Collaborate On
 
-- Open-source game development projects.
-- Game architecture & design pattern discussions.
-- Algorithm & competitive programming initiatives.
-- Cross-platform Flutter app development.
-- Christian-tech networking and project creation.
+- Open-source AI developer tools and integrations.
+- AI system architecture and compliance platforms.
+- TypeScript, React, and Next.js full-stack ecosystems.
+- Christian-tech networking, mentoring, and kingdom-focused tech projects.
 
 ---
 
 ## 💡 My Philosophy
 
-> *"Clean architecture leads to clean games. Good design enables creativity."*
+> *"Clean architecture leads to reliable AI. Good design enables seamless user experience."*
 
 I believe in:
 - 📐 **Solid Design Principles** - Writing maintainable, readable, and scalable code.
