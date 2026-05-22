@@ -183,6 +183,6 @@ I believe in:
 
 <div align="center">
 
-**Writing code for the glory of God** ✨
+**Running forward today to expand the Kingdom of God** ✨
 
 </div>
