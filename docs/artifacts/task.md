@@ -6,5 +6,6 @@
   - [x] Restructure Tech Stack to prioritize Web & AI, adding Next.js, Tailwind, and OpenAI badges <!-- id: 16 -->
   - [x] Reorder featured projects list to place Web & AI Platform Projects on top <!-- id: 17 -->
   - [x] Update future directions, collaboration info, and engineering philosophy <!-- id: 18 -->
+  - [x] Add English translation for the final faith tagline <!-- id: 21 -->
 - [x] Verify README rendering and structure <!-- id: 19 -->
 - [x] Commit modifications in accordance with commit guidelines <!-- id: 20 -->
