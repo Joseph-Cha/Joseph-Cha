@@ -23,13 +23,17 @@ Documenting key sections for design review:
 
 #### [MODIFY] [README.md](file:///Users/joseph.c/Work/Samples/tools/Joseph-Cha/README.md)
 Update the README.md with the new design:
-- Add a centered introduction with a dynamic header badge/banner.
+- Clean centered introduction with motto and Scripture, without any top banner image.
+- Fixed the broken `Hits` badge by replacing it with a customized `hits.sh` visitor count badge.
 - Insert the GitHub Trophy widget: `https://github-profile-trophy.vercel.app/?username=Joseph-Cha&theme=dracula&row=2&column=6`.
 - Replace the C# Developer class snippet with a Neofetch-style ASCII game controller system info block.
 - Update the **Tech Stack** section with sorted, styled, and aligned shields.
 - Group and list the featured public and private repositories (highlighted appropriately) with star badges.
 - Re-align **GitHub Statistics** using the Dracula theme with a side-by-side layout.
 - Update the **Let's Connect** section using modern, flat-square styled social badges.
+
+#### [DELETE] [profile_banner.png](file:///Users/joseph.c/Work/Samples/tools/Joseph-Cha/profile_banner.png)
+Delete the unused AI-generated banner image to keep the workspace clean.
 
 ## Verification Plan
 

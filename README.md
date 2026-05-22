@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="profile_banner.png" alt="Joseph Cha's Profile Banner" width="100%" />
-</p>
-
 <div align="center">
 
 # 🌌 Joseph Cha
@@ -10,7 +6,7 @@
 
 **Christian Indie Founder & Game Developer** based in **Seoul, South Korea**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoseph-Cha&count_bg=%2379C0FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/Joseph-Cha)
+[![Hits](https://hits.sh/github.com/Joseph-Cha.svg?style=flat-square&label=Hits&color=79C0FF&labelColor=555555&logo=github)](https://github.com/Joseph-Cha)
 [![GitHub Followers](https://img.shields.io/github/followers/Joseph-Cha?color=79C0FF&label=Followers&style=flat-square)](https://github.com/Joseph-Cha?tab=followers)
 
 ### *"무엇을 하든지 마음을 다하여 주께 하듯 하고 사람에게 하듯 하지 말라"* <br> ── **골로새서 3:23** 📖
@@ -91,11 +87,11 @@ I'm a passionate game developer and indie founder dedicated to creating meaningf
 | **JustFight** | 2D 배틀로얄 게임 클라이언트 및 서버 구현 | `Unity` `C#` `.NET5` | Multi-Repo | - |
 
 ### 🌐 Web & AI Platform Projects
-| Project | Description | Tech Stack | Type |
-| :--- | :--- | :--- | :---: |
-| **xbridge-ai** | AI 기반 수출 컴플라이언스 플랫폼 서비스 개발 | `TypeScript` `React` `HTML` | Private |
-| **focus-mate-app** & **focus_mate_web** | 뽀모도로 타이머 및 생산성 향상 크로스플랫폼 앱 & 웹 서비스 | `Dart` `Flutter` `JavaScript` | Private |
-| **[macro-detector-web-landing](https://github.com/Joseph-Cha/macro-detector-web-landing)** | 매크로 툴 탐지 솔루션 소개 랜딩 페이지 | `TypeScript` `React` | Public |
+| Project                                                                                    | Description　　　　　　　　　　　　　　　　　　　　　　　　| Tech Stack                    | Type    |
+| :-------------------------------------------------------------------------------------------| :-----------------------------------------------------------| :------------------------------| :-------:|
+| **xbridge-ai**                                                                             | AI 기반 수출 컴플라이언스 플랫폼 서비스 개발　　　　　　　 | `TypeScript` `React` `HTML`   | Private |
+| **focus-mate-app** & **focus_mate_web**                                                    | 뽀모도로 타이머 및 생산성 향상 크로스플랫폼 앱 & 웹 서비스 | `Dart` `Flutter` `JavaScript` | Private |
+| **[macro-detector-web-landing](https://github.com/Joseph-Cha/macro-detector-web-landing)** | 매크로 툴 탐지 솔루션 소개 랜딩 페이지　　　　　　　　　　 | `TypeScript` `React`          | Public  |
 
 ### 🧠 System Programming & Algorithms
 | Project | Description | Tech Stack | Type |

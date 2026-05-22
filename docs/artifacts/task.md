@@ -8,4 +8,7 @@
   - [x] Add trophies, readme stats and streak widgets <!-- id: 5 -->
   - [x] Update connection links with modern badges <!-- id: 6 -->
 - [x] Verify README rendering and structure <!-- id: 7 -->
+- [x] Follow-up updates: Remove banner & Fix Hits badge <!-- id: 9 -->
+  - [x] Remove top profile image (profile_banner.png) <!-- id: 10 -->
+  - [x] Replace broken hits.seeyoufarm.com badge with hits.sh badge <!-- id: 11 -->
 - [x] Commit modifications in accordance with commit guidelines <!-- id: 8 -->

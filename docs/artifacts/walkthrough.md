@@ -4,12 +4,10 @@ This walkthrough summarizes the redesign and decoration of Joseph Cha's GitHub p
 
 ## Changes Made
 
-### 1. Custom Profile Header Banner
-- Generated a stunning dark-themed high-tech banner with glowing geometric designs, grid details, and cyan/purple accents using AI.
-- Saved it as [profile_banner.png](file:///Users/joseph.c/Work/Samples/tools/Joseph-Cha/profile_banner.png) in the project root.
-- Positioned it at the top of the README.md to make a gorgeous first impression.
-
-### 2. Layout Structure & Styling
+### 1. Header Layout & Custom Badges
+- Removed the top profile banner image (`profile_banner.png`) to keep the top clean.
+- Fixed the broken `Hits` badge next to the `Followers` badge by migrating from the shut-down `hits.seeyoufarm.com` service to the modern, reliable `hits.sh` service.
+- Applied consistent styles (`style=flat-square`, `#79C0FF` color, and GitHub logo) to both badges to ensure they align and render correctly.
 - Centered header text, including followers count, visitor hits count, and the motto/Scripture.
 - Replaced the C# `Developer` MonoBehavior code block with a Neofetch-style terminal block displaying an ASCII game controller and system info details.
 - Organized the **Tech Stack** section into four categories:
@@ -36,5 +34,5 @@ This walkthrough summarizes the redesign and decoration of Joseph Cha's GitHub p
 ## Verification & Output
 
 - All files verified locally.
-- Git status displays the modified `README.md` and new `profile_banner.png`.
-- Walkthrough, task, and implementation plan documents stored in both system brain directory and project's `docs/artifacts/`.
+- Git status displays the modified `README.md` and the deletion of the unused `profile_banner.png`.
+- Walkthrough, task, and implementation plan documents updated in project's `docs/artifacts/`.
