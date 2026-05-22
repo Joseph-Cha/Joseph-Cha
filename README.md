@@ -9,7 +9,7 @@
 [![Hits](https://hits.sh/github.com/Joseph-Cha.svg?style=flat-square&label=Hits&color=79C0FF&labelColor=555555&logo=github)](https://github.com/Joseph-Cha)
 [![GitHub Followers](https://img.shields.io/github/followers/Joseph-Cha?color=79C0FF&label=Followers&style=flat-square)](https://github.com/Joseph-Cha?tab=followers)
 
-### *"Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness."* <br> ── **Isaiah 41:10 (KJV)** 📖
+### *"So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."* <br> ── **Isaiah 41:10 (NIV)** 📖
 
 </div>
 
