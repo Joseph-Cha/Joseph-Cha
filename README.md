@@ -183,7 +183,6 @@ I believe in:
 
 <div align="center">
 
-**하나님의 영광을 위해 코드를 작성합니다** ✨ <br>
 **Writing code for the glory of God** ✨
 
 </div>
