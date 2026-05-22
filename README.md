@@ -9,7 +9,7 @@
 [![Hits](https://hits.sh/github.com/Joseph-Cha.svg?style=flat-square&label=Hits&color=79C0FF&labelColor=555555&logo=github)](https://github.com/Joseph-Cha)
 [![GitHub Followers](https://img.shields.io/github/followers/Joseph-Cha?color=79C0FF&label=Followers&style=flat-square)](https://github.com/Joseph-Cha?tab=followers)
 
-### *"무엇을 하든지 마음을 다하여 주께 하듯 하고 사람에게 하듯 하지 말라"* <br> ── **골로새서 3:23** 📖
+### *"Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness."* <br> ── **Isaiah 41:10 (KJV)** 📖
 
 </div>
 
@@ -25,7 +25,7 @@ I'm a passionate full-stack AI engineer and indie founder dedicated to building 
  | |                 | |     Role: Christian Indie Founder & AI Web Engineer
  | |   React & AI    | |     Motto: Every day, one step forward 🚀
  | |   Engineering   | |     Loc: Seoul, South Korea (zsh)
- | |_________________| |     Scripture: Colossians 3:23 📖
+ | |_________________| |     Scripture: Isaiah 41:10 📖
  |_____________________|     
         |_______|            [Skills & Focus]
        /_______\             ├─ Core: AI Platform Design & Web Architecture
